@@ -13,21 +13,21 @@ flatbuffers==25.2.10
 fonttools==4.59.1
 greenlet==3.2.4
 itsdangerous==2.2.0
-jax==0.4.14            # نسخة متوافقة مع Python 3.10
-jaxlib==0.4.14         # نسخة متوافقة مع Python 3.10
+jax==0.4.38           # نسخة متوافقة مع Python 3.10
+jaxlib==0.4.38        # نسخة متوافقة مع Python 3.10
 Jinja2==3.1.6
 kiwisolver==1.4.4
 MarkupSafe==2.1.2
 matplotlib==3.7.2
-mediapipe==0.10.12     # نسخة متوافقة مع Python 3.10
+mediapipe==0.10.12    # نسخة متوافقة مع Python 3.10
 ml_dtypes==0.5.3
-numpy==1.25.0          # نسخة متوافقة مع mediapipe وjax
+numpy==1.25.0         # نسخة متوافقة مع mediapipe وjax
 opencv-python==4.7.0.72
 opencv-contrib-python==4.7.0.72
 opt_einsum==3.4.0
 packaging==25.0
 pillow==9.6.0
-protobuf==4.23.3       # نسخة متوافقة مع mediapipe
+protobuf==4.23.3      # نسخة متوافقة مع mediapipe
 pycparser==2.22
 pyparsing==3.1.1
 python-dateutil==2.8.2
